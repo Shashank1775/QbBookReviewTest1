@@ -22,7 +22,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18.17.0' # Specify the required Node.js version
+          node-version: '20'
       - run: npm install
       - name: Build And Deploy
         id: builddeploy
