@@ -1,0 +1,13 @@
+{
+  "/lists/page": "app/lists/page.js",
+  "/api/[...nextauth]/route": "app/api/[...nextauth]/route.js",
+  "/api/lists/route": "app/api/lists/route.js",
+  "/lists/edit/[...slug]/page": "app/lists/edit/[...slug]/page.js",
+  "/page": "app/page.js",
+  "/api/bookID/route": "app/api/bookID/route.js",
+  "/book/page": "app/book/page.js",
+  "/api/books/route": "app/api/books/route.js",
+  "/review/page": "app/review/page.js",
+  "/api/notes/route": "app/api/notes/route.js",
+  "/api/addBooks/route": "app/api/addBooks/route.js"
+}
