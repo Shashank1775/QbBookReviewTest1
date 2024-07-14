@@ -39,7 +39,9 @@
     "react-dom": "^18",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "@azure/storage-blob": "^12.4.1", // Add this line
+    "streamifier": "^0.1.1" // Add this line
   },
   "devDependencies": {
     "@types/node": "^20",
